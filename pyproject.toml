@@ -12,3 +12,6 @@ dependencies = [
     "ruff>=0.8.0",
     "typer>=0.13.1",
 ]
+
+
+[tool.ruff]
