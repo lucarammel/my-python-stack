@@ -49,13 +49,17 @@ uv run pytest .
 - Application : **streamlit**, **shiny**
 - Workflow : **snakemake**
 
-## Running CI locally : 
+## Running CI locally 
 
 Use this [tool](https://github.com/firecow/gitlab-ci-local) to run CI locally in gitlab.
 
 ```bash
 gitlab-ci-local --variables-file .gitlab-ci-local-env
 ```
+
+## Others 
+
+- Using shell : [oh my zsh](https://ohmyz.sh/)
 
 
 
