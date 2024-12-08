@@ -36,13 +36,18 @@ uv run ruff check my_project
 uv run pytest .
 ```
 
-## Packages I use 
+## Packages / tools  
 
 - DataFrames : **polars**
 - API REST : **fastapi**
 - Logging : **loguru**
 - CLI : **typer**
 - Datetime : **pendulum**
+- Making html report : **quarto**
+- Plotting : **plotly**, **altair**, **seaborn**
+- Reactive notebook : **marimo**
+- Application : **streamlit**, **shiny**
+- Workflow : **snakemake**
 
 ## Running CI locally : 
 
