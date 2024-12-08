@@ -1,0 +1,30 @@
+{
+    "workbench.colorTheme": "Monokai",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "[python]": {
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+        "source.fixAll": "explicit",
+        "source.organizeImports": "explicit"
+        },
+        "editor.defaultFormatter": "charliermarsh.ruff"
+    },
+    "notebook.formatOnSave.enabled": true,
+    "notebook.codeActionsOnSave": {
+        "notebook.source.fixAll": "explicit",
+        "notebook.source.organizeImports": "explicit"
+    },
+    "ruff.lineLength": 100,
+    "jupyter.askForKernelRestart": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "jupyter.interactiveWindow.textEditor.executeSelection": true,
+    "window.zoomLevel": -1,
+    "database-client.telemetry.usesOnlineServices": false,
+    "remote.autoForwardPortsSource": "hybrid",
+    "workbench.editor.enablePreview": false,
+    "interactiveWindow.executeWithShiftEnter": true,
+    "settingsSync.ignoredExtensions": [
+    ],
+    "editor.codeActionsOnSave": {
+    },
+}
