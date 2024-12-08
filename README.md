@@ -44,6 +44,13 @@ uv run pytest .
 - CLI : **typer**
 - Datetime : **pendulum**
 
+## Running CI locally : 
+
+Use this [tool](https://github.com/firecow/gitlab-ci-local) to run CI locally in gitlab.
+
+```bash
+gitlab-ci-local --variables-file .gitlab-ci-local-env
+```
 
 
 
