@@ -1,6 +1,6 @@
-# my-python-stack
+# My python stack :rocket:
 
-This template is used to start a Python project with the tools I enjoy to use.
+This repo is used as a template, a reminder for the packages, the tools I enjoy using
 
 ## VSCode Settings
 
